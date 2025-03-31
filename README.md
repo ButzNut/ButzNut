@@ -1,3 +1,7 @@
-Hey there! My name is Janis Butz and I currently study at UCC.
+Hey there! My name is Janis Butz and I work at the Max-Planck-Institute for the study of Criminology, Security and Law.
 
-I create a VR-Classroom as my final, so universities have the opportunity to create a more interactive way of learning.
+I create special applications in VR and Non-VR environments to support and conduct studies.
+
+I mainly use Unity3D to create research applications, but also other tools to create cutting edge research projects.
+
+But also creating and managing webservers, Large Languages Model Servers and self hosted services are part of my work.
