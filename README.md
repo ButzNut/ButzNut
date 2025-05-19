@@ -1,7 +1,7 @@
-Hey there! My name is Janis Butz and I work at the Max-Planck-Institute for the study of Criminology, Security and Law.
+My name is Janis Butz, and I am a researcher at the Max Planck Institute for the Study of Criminology, Security, and Law.
 
-I create special applications in VR and Non-VR environments to support and conduct studies.
+I develop specialized applications for virtual reality (VR) and non-VR environments to facilitate and support research studies.
 
-I mainly use Unity3D to create research applications, but also other tools to create cutting edge research projects.
+My primary development environment is Unity3D, though I utilize other tools as needed to create state-of-the-art research projects.
 
-But also creating and managing webservers, Large Languages Model Servers and self hosted services are part of my work.
+My responsibilities also include the creation and management of web servers, large language model servers, and self-hosted services.
